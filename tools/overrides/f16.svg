@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 400" width="280" height="400" role="img" aria-labelledby="title desc">
+  <title id="title">General Dynamics F-16 Fighting Falcon</title>
+  <desc id="desc">Силует зверху: один двигун, напливи крила, трапецієподібні крила, кінцеві напрямні та окремі хвостові стабілізатори. Авторська інтерпретація, не масштабне креслення.</desc>
+  <g fill="#505a64">
+    <!-- Radome, slender forebody, wing-root extensions and aft engine fairing. -->
+    <path d="M139.4 10 L139.5 20
+      C136.4 25.5 132.9 40.8 131.5 57
+      C130.2 68.8 129.6 81.6 129.2 94
+      L127.8 113.8
+      C126.3 128.1 122.4 140.6 116.6 152.1
+      L112.9 163.5 L112.1 178.8
+      L111.6 263.5 L114.2 279.8 L117.5 302.5
+      L119.2 327.4 L121.3 344.5 L124.6 350.4
+      L125.7 366.4 Q140 372.4 154.3 366.4
+      L155.4 350.4 L158.7 344.5 L160.8 327.4
+      L162.5 302.5 L165.8 279.8 L168.4 263.5
+      L167.9 178.8 L167.1 163.5 L163.4 152.1
+      C157.6 140.6 153.7 128.1 152.2 113.8
+      L150.8 94 C150.4 81.6 149.8 68.8 148.5 57
+      C147.1 40.8 143.6 25.5 140.5 20 L140.6 10Z"/>
+    <!-- Main wings: swept leading edges, almost straight trailing edges. -->
+    <path id="wing" d="M115.9 169.8 L26.4 231.5 L24.8 250.5
+      L32.6 254.1 L109.8 264.2 L118.4 254.9Z"/>
+    <use href="#wing" transform="translate(280 0) scale(-1 1)"/>
+    <!-- Wingtip launch rails, without external stores. -->
+    <path id="rail" d="M24.4 221.6 Q23.1 220.1 22.4 223.7
+      L21.7 231.8 L21.7 253.8 L23.6 260.2 L26.1 259.5
+      L26.7 228.3Z"/>
+    <use href="#rail" transform="translate(280 0) scale(-1 1)"/>
+    <!-- All-moving horizontal stabilators, separate from the main wings. -->
+    <path id="stabilator" d="M118.9 289.7 L72.9 328.2
+      L68.7 355.4 L74.8 359.1 L119.8 342.5 L124.1 328.3Z"/>
+    <use href="#stabilator" transform="translate(280 0) scale(-1 1)"/>
+    <!-- A single fin seen edge-on, with its long dorsal root. -->
+    <path d="M138.7 239.5 Q140 232 141.3 239.5
+      L143.4 310.7 L142 354.9 L140 363.1
+      L138 354.9 L136.6 310.7Z"/>
+    <!-- Nozzle and the two ventral-fin projections. -->
+    <path d="M126.1 365 L125.8 375.6 Q140 380.4 154.2 375.6
+      L153.9 365Z M120.7 305.4 L115.2 324.4 L117.2 341.1
+      L122.9 334.7Z M159.3 305.4 L164.8 324.4 L162.8 341.1
+      L157.1 334.7Z"/>
+  </g>
+</svg>

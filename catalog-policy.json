@@ -1,0 +1,21 @@
+{
+  "scope": "Aircraft currently in operational use; exclude historical display aircraft, retired types and prototypes. Remaining candidates require source verification.",
+  "excluded": {
+    "viggen": "Retired operational type; historic/display flying does not qualify.",
+    "draken": "Retired operational type; historic/display flying does not qualify.",
+    "f104": "Retired operational type; historic/display flying does not qualify.",
+    "f117": "Retired from operational combat service; limited test flying does not qualify.",
+    "su37": "Technology demonstrator, not an operational production type.",
+    "rah66": "Cancelled prototype programme.",
+    "b21": "Development/test aircraft; do not include without evidence of operational service.",
+    "v280": "Technology demonstrator; distinct from future production variants.",
+    "sr71": "Retired operational type.",
+    "an225": "Sole completed aircraft destroyed; not currently operational.",
+    "concorde": "Retired operational type.",
+    "tu144": "Retired operational type.",
+    "spitfire": "Historical/display aircraft outside the selected scope.",
+    "p51": "Historical/display aircraft outside the selected scope.",
+    "bf109": "Historical/display aircraft outside the selected scope.",
+    "po2": "Historical/display aircraft outside the selected scope."
+  }
+}

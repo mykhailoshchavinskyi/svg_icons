@@ -1,0 +1,240 @@
+{
+  "f22": {
+    "source_file": "Shapes SVG/F22.svg",
+    "sanitized_file": "silhouettes/F22.svg",
+    "source_title": "Lockheed Martin F-22 Raptor",
+    "source_viewBox": "-33 -31 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.4173977985978127 -0.3760566204786301 14.453749942779542 19.763128566741944",
+    "accent_group_ids": [
+      "layer3"
+    ]
+  },
+  "fa18e": {
+    "source_file": "Shapes SVG/F18S.svg",
+    "sanitized_file": "silhouettes/F18S.svg",
+    "source_title": "Mac Donnell-Douglas F/A-18E Super Hornet",
+    "source_viewBox": "-33 -31 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.34459124505519867 -0.27229417860507965 15.572810173034668 20.436555862426758",
+    "accent_group_ids": [
+      "layer5"
+    ]
+  },
+  "mirage3": {
+    "source_file": "Shapes SVG/MIRA.svg",
+    "sanitized_file": "silhouettes/MIRA.svg",
+    "source_title": "Mirage 3e",
+    "source_viewBox": "-36 -32 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.34560819044709207 -0.3012289971113205 9.502764129638672 16.62036838531494",
+    "accent_group_ids": [
+      "layer7"
+    ]
+  },
+  "g650": {
+    "source_file": "Shapes SVG/GLF6.svg",
+    "sanitized_file": "silhouettes/GLF6.svg",
+    "source_title": "Gulfstream G650",
+    "source_viewBox": "-25 -25 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.6923896908760071 -0.642283821105957 31.870220470428468 31.886930751800538",
+    "accent_group_ids": [
+      "layer7"
+    ]
+  },
+  "falcon7x": {
+    "source_file": "Shapes SVG/FA7X.svg",
+    "sanitized_file": "silhouettes/FA7X.svg",
+    "source_title": "Dassault Falcon 7X",
+    "source_viewBox": "-27 -28 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.6865507483482362 -0.6030269756913186 27.4318808555603 24.592134380340575",
+    "accent_group_ids": [
+      "layer5"
+    ]
+  },
+  "citationx": {
+    "source_file": "Shapes SVG/C750.svg",
+    "sanitized_file": "silhouettes/C750.svg",
+    "source_title": "Cessna 750 Citation X",
+    "source_viewBox": "-29 -29 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.5917698584496975 -0.5563335625454784 22.397450542449953 23.86210355758667",
+    "accent_group_ids": [
+      "layer2"
+    ]
+  },
+  "crj900": {
+    "source_file": "Shapes SVG/CRJ9.svg",
+    "sanitized_file": "silhouettes/CRJ9.svg",
+    "source_title": "Canadair Regional Jet 900",
+    "source_viewBox": "-28 -22 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.9738801062107086 -0.7907994851469994 25.033830451965333 38.17440776824951",
+    "accent_group_ids": [
+      "layer3"
+    ]
+  },
+  "b717": {
+    "source_file": "Shapes SVG/B712.svg",
+    "sanitized_file": "silhouettes/B712.svg",
+    "source_title": "Boeing 717-200",
+    "source_viewBox": "-26 -21 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.7600445747375488 -0.8602737411856651 30.936427116394043 38.93782711029053",
+    "accent_group_ids": [
+      "layer3"
+    ]
+  },
+  "a220": {
+    "source_file": "Shapes SVG/BCS3.svg",
+    "sanitized_file": "silhouettes/BCS3.svg",
+    "source_title": "Airbus A220-300",
+    "source_viewBox": "-22 -21 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.9171808958053589 -0.8463122919201851 37.175140380859375 40.50605392456055",
+    "accent_group_ids": [
+      "layer17"
+    ]
+  },
+  "ssj100": {
+    "source_file": "Shapes SVG/SU95.svg",
+    "sanitized_file": "silhouettes/SU95.svg",
+    "source_title": "Suchhoi SU-100-95",
+    "source_viewBox": "-26 -25 80 80.000002",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.7596287727355957 -0.642698347568512 29.766310691833496 31.90440845489502",
+    "accent_group_ids": [
+      "layer5"
+    ]
+  },
+  "tu204": {
+    "source_file": "Shapes SVG/T204.svg",
+    "sanitized_file": "silhouettes/T204.svg",
+    "source_title": "Tupolv Tu-204-100",
+    "source_viewBox": "-19 -17 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-1.138883149623871 -1.1123874321579934 44.516567420959475 48.82502002716065",
+    "accent_group_ids": [
+      "layer5"
+    ]
+  },
+  "dc3": {
+    "source_file": "Shapes SVG/DC3.svg",
+    "sanitized_file": "silhouettes/DC3.svg",
+    "source_title": "Douglas DC-3 (C47)",
+    "source_viewBox": "-25 -30 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.6326769948005677 -0.6159721523523332 31.483511638641357 22.170841884613036",
+    "accent_group_ids": [
+      "layer5"
+    ]
+  },
+  "dc10": {
+    "source_file": "Shapes SVG/DC10.svg",
+    "sanitized_file": "silhouettes/DC10.svg",
+    "source_title": "McDonnell Douglas DC-10",
+    "source_viewBox": "-15 -12 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-1.214832454919815 -1.40382719039917 53.31471920013428 58.96074199676514",
+    "accent_group_ids": [
+      "layer6"
+    ]
+  },
+  "c295": {
+    "source_file": "Shapes SVG/C295.svg",
+    "sanitized_file": "silhouettes/C295.svg",
+    "source_title": "C-295 Persuader",
+    "source_viewBox": "-27 -28 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.6044664077460766 -0.6280901638790966 26.875880813598634 24.9387451171875",
+    "accent_group_ids": [
+      "layer2"
+    ]
+  },
+  "c130": {
+    "source_file": "Shapes SVG/C130.svg",
+    "sanitized_file": "silhouettes/C130.svg",
+    "source_title": "Lockheed C130J-30 Hercules",
+    "source_viewBox": "-20 -23 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-1.039438033103943 -0.8153587222099306 42.664056587219235 36.27425556182861",
+    "accent_group_ids": [
+      "layer5"
+    ]
+  },
+  "do228": {
+    "source_file": "Shapes SVG/D228.svg",
+    "sanitized_file": "silhouettes/D228.svg",
+    "source_title": "Dornier 228",
+    "source_viewBox": "-32 -32 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.3220346212387085 -0.5345159411430359 17.03424768447876 16.84431200027466",
+    "accent_group_ids": []
+  },
+  "cl415": {
+    "source_file": "Shapes SVG/CL2T.svg",
+    "sanitized_file": "silhouettes/CL2T.svg",
+    "source_title": "Canadair CL-215T / 415",
+    "source_viewBox": "-26 -30 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.9840299904346467 -0.9503153383731843 30.06947793960571 21.133866214752196",
+    "accent_group_ids": [
+      "layer5"
+    ]
+  },
+  "kc46": {
+    "source_file": "Shapes SVG/KC46.svg",
+    "sanitized_file": "silhouettes/KC46.svg",
+    "source_title": "KC-46 Pegasus",
+    "source_viewBox": "-16 -16 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-1.119281530380249 -0.9089429676532745 49.946187019348145 51.003830909729004",
+    "accent_group_ids": [
+      "layer3"
+    ]
+  },
+  "uh1": {
+    "source_file": "Shapes SVG/UH1.svg",
+    "sanitized_file": "silhouettes/UH1.svg",
+    "source_title": "Bell UH-1",
+    "source_viewBox": "-37 -31 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.480134391784668 -0.254614332318306 6.700644779205322 18.125727939605714",
+    "accent_group_ids": [
+      "layer4"
+    ]
+  },
+  "nh90": {
+    "source_file": "Shapes SVG/NH90.svg",
+    "sanitized_file": "silhouettes/NH90.svg",
+    "source_title": "NH-90",
+    "source_viewBox": "-32 -30 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.5332862377166748 -0.4163560509681702 17.312633800506593 23.09961347579956",
+    "accent_group_ids": [
+      "layer3"
+    ]
+  },
+  "atr42": {
+    "source_file": "Shapes SVG/AT45.svg",
+    "sanitized_file": "silhouettes/AT45.svg",
+    "source_title": "ATR-42-500",
+    "source_viewBox": "-28 -29 80 80",
+    "embedded_images_removed": 0,
+    "fitted_viewBox": "-0.6005194604396821 -0.6339297004044057 25.923465156555174 24.31986560821533",
+    "accent_group_ids": []
+  },
+  "f16": {
+    "source_file": "Shapes SVG/F16.svg",
+    "sanitized_file": "silhouettes/F16.svg",
+    "source_title": "Lockheed Martin (General Dynamics) F-16 Fighting Falcon",
+    "source_viewBox": "-35 -33 80 80",
+    "embedded_images_removed": 0,
+    "accent_group_ids": [
+      "layer3"
+    ],
+    "fitted_viewBox": "-0.3582946300506592 -0.21733521819114687 10.259187507629395 16.977881240844727"
+  }
+}

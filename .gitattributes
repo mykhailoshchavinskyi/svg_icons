@@ -1,0 +1,2 @@
+# Preserve upstream source and licence text verbatim, including its whitespace.
+third_party/** -whitespace
